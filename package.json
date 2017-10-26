@@ -1,0 +1,27 @@
+{
+  "name": "http-random-response",
+  "version": "1.0.0",
+  "description": "Simple node http server that returns a random response status code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reyiyo/node-http-random-response.git"
+  },
+  "keywords": [
+    "node",
+    "http",
+    "random",
+    "response",
+    "status"
+  ],
+  "author": "Sergio Orbe <reyiyo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reyiyo/node-http-random-response/issues"
+  },
+  "homepage": "https://github.com/reyiyo/node-http-random-response#readme"
+}
